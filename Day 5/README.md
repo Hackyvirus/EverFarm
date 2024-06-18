@@ -6,7 +6,6 @@
 ## Category: 
 # Phase 1 - Designing
 
-
 ## Today’s Work:
 
 `1. Start Wireframing` 
