@@ -6,7 +6,6 @@ Research & Designing wireframes
 ## Category: 
 Phase 1 - Planning
 
-
 ## Today’s Work:
 
 ### 1. Expense Tracker Data
