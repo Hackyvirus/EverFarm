@@ -1,6 +1,6 @@
-### Day 7
+### Day 8
 
-## To do For 1 Week:
+## To do For 2 Week:
 Research & Designing wireframes
 
 ## Category: 
