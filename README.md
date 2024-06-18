@@ -123,5 +123,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Sushant Atram - [LinkedIn](https://www.linkedin.com/in/sushantatram/) - ceo-sushant@eversity.co.in
 
+Sushant Atram - [Instagran](https://www.instagram.com/sushant_atram_/) 
+
 Project Link: [Github](https://github.com/Hackyvirus/EverFarm/)
 ```
