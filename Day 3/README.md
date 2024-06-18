@@ -6,7 +6,6 @@ Create Booklet for this project
 ## Category: 
 Phase 1 - Planning
 
-
 ### Today’s Work:
 
 ## Problems of Farmers in India:
