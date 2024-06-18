@@ -7,9 +7,9 @@
 ## Category: 
 # Phase 1 - Planning
 
-## Today’s Work:
+### Today’s Work:
 
-Problems of Farmers in India:
+## Problems of Farmers in India:
 
 - Unavailability of Good quality seeds
 - Limited literacy and technical skills.
