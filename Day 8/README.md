@@ -11,7 +11,7 @@ Phase 1 - Planning
 
 ### 2. Financial Management Page Data
 
-Detailed list of the kinds of data to show on the Financial Management page of your website. This page will help farmers manage their finances effectively, understand their financial health, and make informed decisions.
+Detailed list of the kinds of data to show on the Financial Management page of your website. This page will help farmers manage their finances effectively, understand their financial health, and make informed decisions. 
 
 1. **Dashboard Overview**
 
