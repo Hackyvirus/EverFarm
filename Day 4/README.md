@@ -5,7 +5,7 @@
 `Planning and Desiging Wireframes for websites`
 
 ## Category: 
-# Phase 1 - Planning
+# Phase 1 - Planning & Designing
 
 ### Today’s Work:
 
