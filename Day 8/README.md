@@ -38,7 +38,7 @@ Detailed list of the kinds of data to show on the Financial Management page of y
    - **Outstanding Loans:** List of all active loans with details such as lender, amount, interest rate, and repayment schedule.
    - **Debt Repayment Tracker:** Tool to track payments made towards loans and calculate remaining balances.
    - **Credit Score Indicator:** If available, show an indicative credit score or creditworthiness based on financial history.
-
+ 
 5. **Investment Analysis**
 
    - **Investment Portfolio:** Overview of any investments made (e.g., in equipment, land, or financial instruments).
