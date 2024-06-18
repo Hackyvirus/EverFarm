@@ -1,4 +1,3 @@
-
 ### 1. Expense Tracker Data
 
 In the Expense Tracker page of your website, you should show various types of data that help farmers keep track of their expenses, understand their financial situation, and make informed decisions. Here is a comprehensive list of the kinds of data to display:
