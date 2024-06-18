@@ -7,18 +7,18 @@ Create Booklet for this project
 Phase 1 - Planning
 
 
-## Today’s Work:
+### Today’s Work:
 
-Problems of Farmers in India:
-Small and fragmented landholdings
-Unequal access to irrigation and unreliable rainfall
-Overuse of groundwater
-Lack of proper storage and transportation facilities
-Fluctuating market prices and dominance of middlemen
-Limited access to market information
-Difficulty getting access to credit
-Limited adoption of modern farming techniques
-Shortage of agricultural labor
-Disruptions due to extreme weather events
+## Problems of Farmers in India:
+- 1. Small and fragmented landholdings
+- 2. Unequal access to irrigation and unreliable rainfall
+- 3. Overuse of groundwater
+- 4. Lack of proper storage and transportation facilities
+- 5.Fluctuating market prices and dominance of middlemen
+- 6.Limited access to market information
+- 7.Difficulty getting access to credit
+- 8.Limited adoption of modern farming techniques
+- 9.Shortage of agricultural labor
+- 10.Disruptions due to extreme weather events
 
 
