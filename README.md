@@ -1,4 +1,3 @@
-
 # EverFarm
 
 EverFarm is an AI-driven agritech platform dedicated to empowering farmers in India. Our mission is to simplify farm management, enhance productivity, and provide actionable insights through technology. EverFarm offers tools for tracking expenses, predicting weather patterns, and identifying crop diseases, all in one user-friendly interface.
