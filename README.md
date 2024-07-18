@@ -41,7 +41,7 @@
 
 - **Raspberry Pi 4 (or 3 Model B+)**
 - **DHT22 (Temperature and Humidity Sensor)**
-- **YL-69 (Soil Moisture Sensor)**
+- **Capacitive Soil Moisture Sensor (Soil Moisture Sensor)**
 - **BH1750 (Light Sensor)**
 - **YF-S201 (Water Flow Sensor)**
 - **MCP3008 (Analog to Digital Converter for YL-69)**
